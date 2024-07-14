@@ -1,3 +1,5 @@
+package Exercicio_Vetores;
+
 import java.util.Scanner;
 
 public class Exercicio01_Vetores {

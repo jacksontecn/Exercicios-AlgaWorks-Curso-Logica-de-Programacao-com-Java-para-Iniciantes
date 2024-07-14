@@ -1,3 +1,5 @@
+package Exercicio_Estrutura_de_Decisao;
+
 import java.util.Scanner;
 
 public class Exercicio02_Estrutura_de_Decisao {

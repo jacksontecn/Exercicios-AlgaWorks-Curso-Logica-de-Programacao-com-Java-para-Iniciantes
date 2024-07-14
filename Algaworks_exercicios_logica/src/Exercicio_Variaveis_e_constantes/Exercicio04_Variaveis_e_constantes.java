@@ -1,3 +1,5 @@
+package Exercicio_Variaveis_e_constantes;
+
 import java.util.Scanner;
 
 public class Exercicio04_Variaveis_e_constantes {

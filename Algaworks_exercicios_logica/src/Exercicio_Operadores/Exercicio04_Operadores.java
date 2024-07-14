@@ -1,3 +1,5 @@
+package Exercicio_Operadores;
+
 import java.util.Scanner;
 
 public class Exercicio04_Operadores {

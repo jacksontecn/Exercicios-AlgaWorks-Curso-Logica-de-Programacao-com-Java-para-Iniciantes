@@ -1,3 +1,5 @@
+package Exercicio_Iteracao;
+
 import java.util.Scanner;
 
 public class Exercicio01_Iteracao {

@@ -1,3 +1,5 @@
+package Exercicio_Vetores;
+
 public class Exercicio02_Vetores {
     public static void main(String[] args) {
         Double[] semanaUm = new Double[]{ 1000.0, 1500.0, 1250.0, 2100.0, 1350.0, 970.0, 0.0 };
