@@ -25,7 +25,7 @@ public class Contato {
     }
 
     public boolean isNovo(){
-        return true;
+        return id == null;
     }
 
     public String getId() {
